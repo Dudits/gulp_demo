@@ -1,0 +1,26 @@
+{
+  "name": "multi-label-prototype",
+  "version": "1.0.0",
+  "description": "Prototype of gulp for multi-labeling our front-end",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rev": "^8.1.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-clean-css": "^3.9.3",
+    "gulp-compass": "^2.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "pump": "^3.0.0"
+  }
+}

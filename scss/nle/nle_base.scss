@@ -1,0 +1,15 @@
+// RESET
+
+	@import "compass/reset";
+
+// SPRITES
+
+    @import "compass/utilities/sprites";
+
+// BASE
+
+    @import "../../scss/base/base";
+
+.test {
+	background-image: linear-gradient(to right,rgba(241,142,0,.9) 0,rgba(229,58,72,.9) 100%);
+}

@@ -1,0 +1,15 @@
+// RESET
+
+	@import "compass/reset";
+
+// SPRITES
+
+    @import "compass/utilities/sprites";
+
+// BASE
+
+    @import "../../scss/base/base";
+
+.test {
+	background-color: #3aaa35;
+}

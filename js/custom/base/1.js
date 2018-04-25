@@ -1,0 +1,1 @@
+const WORKING_DAYS_IN_WEEK = 5;
